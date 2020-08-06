@@ -1,0 +1,40 @@
+{
+  "nombreApp": "Componentes",
+  "rutas": [
+    {
+      "ruta": "anime",
+      "icon": "format_list_bulleted",
+      "texto": "Lista de Anime"
+    },
+    {
+      "ruta": "opening",
+      "icon": "music_video",
+      "texto": "Openings"
+    },
+    {
+      "ruta": "search",
+      "icon": "search",
+      "texto": "Buscar un Anime"
+    },
+    {
+      "ruta": "animatedContainer",
+      "icon": "donut_large",
+      "texto": "Animador!"
+    },
+    {
+      "ruta": "inputs",
+      "icon": "input",
+      "texto": "Ingresar Anime"
+    },
+    {
+      "ruta": "slider",
+      "icon": "tune",
+      "texto": "Visualizar Carátulas"
+    },
+    {
+      "ruta": "list",
+      "icon": "list",
+      "texto": "Scroll Infinito "
+    }
+  ]
+}
